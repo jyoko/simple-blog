@@ -1,0 +1,21 @@
+#Test here
+
+*one star*
+
+**two stars**
+
+`inline code`
+
+```js
+testing a block of code
+
+does this work
+
+// maybe
+
+if (false) {
+  cry();
+}
+```
+
+_this too_
